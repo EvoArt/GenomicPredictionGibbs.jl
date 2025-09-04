@@ -1,0 +1,3 @@
+useDynLib(RGenPred)
+importFrom(Rcpp, evalCpp)
+export("Rcpp.fake.fun")
