@@ -1,3 +1,8 @@
 # GenomicPredictionGibbs
 
-[![Build Status](https://github.com/evoart/GenomicPredictionGibbs.jl/actions/workflows/CI.yml/badge.svg?branch=master)](https://github.com/evoart/GenomicPredictionGibbs.jl/actions/workflows/CI.yml?query=branch%3Amaster)
+WIP
+
+
+Bayesian methods for genomic prediction. Particularly focussed on drawing from analytically tractable conditional distributions for inclusion in larger inference models. 
+
+
